@@ -105,24 +105,24 @@
         margin: 0 auto;
     }
     .title h1 {
-        font-size: 30px !important;
+        font-size: 20px !important;
     }
     .title p{
         font-size: 11px !important;
     }
-    .title-box{
+    /* .title-box{
         flex-wrap: wrap;
         margin-top: 170px;
-    }
-    .title-box{
-        height: 660px !important;
+    } */
+    .title-box {
+        height: 860px !important;
     }
     .Architecture img{
         margin-top: 0px;
     }
     .title {
-        padding-top: 0px;
         margin-top: 100px !important;
+        height: 242px;
     }
     .Architecture {
         width: 313px !important;

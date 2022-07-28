@@ -115,15 +115,15 @@
         margin-top: 170px;
     } */
     .title-box {
-        height: 860px !important;
-        margin-top: 170px !important;
+        /* height: 860px !important; */
+        margin-top: 580px !important;
     }
     .Architecture img{
         margin-top: 0px;
     }
     .title {
         /* margin-top: 100px !important; */
-        height: 242px;
+        height: 902px;
     }
     .Architecture {
         width: 313px !important;

@@ -27,7 +27,7 @@
     font-family: Montserrat,sans-serif;
 }
 
- /* @media screen and (max-width:320px) {
+ @media screen and (max-width:320px) {
     .container{
         
         overflow: hidden;
@@ -36,7 +36,7 @@
     #hero{
         height: 297px;
     }
-    }
+    
     .hero-text h1{
         font-size: 20px !important;
         color: #FF6019;
@@ -49,7 +49,7 @@
         height: 85px !important;
         margin-top: 10px !important;
     }
-} */
+}
     /* first section end */
 
 
@@ -115,15 +115,10 @@
         margin-top: 170px;
     } */
     .title-box {
-        /* height: 860px !important; */
-        margin-top: 580px !important;
+        height: 620px !important;
     }
     .Architecture img{
         margin-top: 0px;
-    }
-    .title {
-        /* margin-top: 100px !important; */
-        height: 902px;
     }
     .Architecture {
         width: 313px !important;

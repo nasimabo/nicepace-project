@@ -798,7 +798,7 @@ hr {
     }
 }
 /* six section end */
-/* #contactus {
+ #contactus {
 	display: flex;
 	justify-content: space-between;
 }
@@ -846,43 +846,42 @@ input{
 }
 .footer a{
     color: #fff;
-} */
-/* @media screen and (max-width:320px) {
+} 
+ @media screen and (min-width:300px) {
     .container{
-        /* width: 100% !important;
-        margin: 0 auto !important; */
-        /* overflow: hidden;
+
+        overflow: hidden;
         margin: 0 auto;
-    } */
-    /* #contactus{
-        flex-wrap: wrap;
+    } 
+     #contactus{
+        flex-wrap: wrap !important;
     }
     .contact{
-        margin: 0 50px;
+        margin: 0 20px !important;
     }
     .contact h1{
-        font-size: 30px !important;
-        color: #FF6019;
+        font-size: 20px !important;
+        color: #FF6019 !important;
     }
     .contact p{
-        font-size: 15px;
+        font-size: 11px;
     }
     input{
-        width: 220px;
+        width: 200px;
     }
     #massage {
-        width: 250px;
+        width: 200px;
 
     }
     .contact-img img {
         width: 100% !important;
-        height: 360px;
+        height: 330px;
         margin-top: 30px;
     }
     .footer{
         width: 100%;
     }
-}  */
+}  
 
 
 

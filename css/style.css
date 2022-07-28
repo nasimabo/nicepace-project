@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-#hero {
+/* #hero {
 	background: url(../image/fdfdd-min.png);
 	background-position: center;
 	background-repeat: no-repeat;
@@ -25,9 +25,9 @@
 .hero-text h1{
     font-size: 50px;
     font-family: Montserrat,sans-serif;
-}
+} */
 
- @media screen and (max-width:320px) {
+ /* @media screen and (max-width:320px) {
     .container{
         
         overflow: hidden;
@@ -54,7 +54,7 @@
 
 
 /* first section end */
-.title{
+/* .title{
     text-align: center;
     padding-top:80px;
     background: #fff;
@@ -114,7 +114,7 @@
         flex-wrap: wrap;
         margin-top: 170px;
     } */
-    .title-box {
+    /* .title-box {
         height: 620px !important;
     }
     .Architecture img{
@@ -126,10 +126,10 @@
         text-align: start;
         display: block;
     }
-}
+}  */
 /* second section end */
 
-#Feature{
+/* #Feature{
     display: flex;
     justify-content: center;
     background: #F2F2F2;
@@ -182,19 +182,19 @@
 	width: 160px;
 	height: 160px;
 	border-radius: 50%;
-	/* padding: 0 125px; */
-	margin-left: 140px;
-}
-.goals-text{
+	padding: 0 125px; */
+	/* margin-left: 140px;
+} */
+/* .goals-text{
     margin-left: 30px;
     text-align: justify;
     line-height: 25px;
     color: black;
     margin-right: 89px;
     margin-top: 34px;
-}
+} */
 
-@media screen and (max-width:320px) {
+/* @media screen and (max-width:320px) {
     .container{
         overflow: hidden;
         margin: 0 auto !important;
@@ -238,10 +238,10 @@
     .values-text{
         margin-left: 40px !important;
     }
-}
+}  */
 /* third section end */
 
-.count {
+/* .count {
 	height: 230px;
 	text-align: center;
 	padding-top: 60px;
@@ -320,8 +320,8 @@
 .Strategies-text-btn a:hover{
     background: #FF6019;
     color: #fff;
-}
-@media screen and (max-width:320px) {
+} */
+/* @media screen and (max-width:320px) {
     .container{
         overflow: hidden;
         margin: 0 auto;
@@ -369,9 +369,9 @@
     .Strategies-text p{
         width: 300px !important;
     }
-}
+} */
 /* four section end */
-.freepic-contant{
+/* .freepic-contant{
     width: 100%;
     height: 800px;
     background: #FF6019;
@@ -539,8 +539,8 @@ hr {
 .container{
     width: 100%;
     margin: 0 auto;
-}
-@media screen and (max-width:320px) {
+} */
+/* @media screen and (max-width:320px) {
     .container{
         overflow: hidden;
         margin: 0 auto;
@@ -631,7 +631,7 @@ hr {
     .sub-title p {
         font-size: 17px !important;
     }
-} 
+}  */
 /* five section end */
 
 #service{
@@ -740,11 +740,20 @@ hr {
 .project-text{
     width: 400px;
 }
-@media screen and (max-width:320px) {
+@media screen and (min-width:300px) {
     .container{
         
         overflow: hidden;
         margin: 0 auto;
+    }
+    .project-text h2 {
+        font-size: 18px;
+    }
+    .project-text p {
+        font-size: 11px;
+    }
+    span{
+        font-size: 11px;
     }
     .project{
         flex-wrap: wrap !important;
@@ -754,33 +763,42 @@ hr {
     }
     .project-img img {
         margin-top: 10px !important;
-        width: 300px !important;
+        width: 250px !important;
     }
     .project-box{
         flex-wrap: wrap !important;
     }
     .box-one {
         display: block !important;
-        width: 80% !important;
+        width: 89% !important;
+    }
+    .box-one h1{
+        color: #000;
     }
     .box-two {
         display: block !important;
-        width: 80% !important;
+        width: 89% !important;
+    }
+    .box-two h1{
+        color: #000;
     }
     .box-three {
         display: block !important;
-        width: 80% !important;
+        width: 89% !important;
+    }
+    .box-three h1{
+        color: #000;
     }
     .box-four {
         display: block !important;
-        width: 80% !important;
+        width: 89% !important;
     }
-    .project-text h2 {
-        font-size: 21px;
+    .box-four h1{
+        color: #000;
     }
 }
 /* six section end */
-#contactus {
+/* #contactus {
 	display: flex;
 	justify-content: space-between;
 }
@@ -828,15 +846,15 @@ input{
 }
 .footer a{
     color: #fff;
-}
-@media screen and (max-width:320px) {
+} */
+/* @media screen and (max-width:320px) {
     .container{
         /* width: 100% !important;
         margin: 0 auto !important; */
-        overflow: hidden;
+        /* overflow: hidden;
         margin: 0 auto;
-    }
-    #contactus{
+    } */
+    /* #contactus{
         flex-wrap: wrap;
     }
     .contact{
@@ -864,7 +882,7 @@ input{
     .footer{
         width: 100%;
     }
-}
+}  */
 
 
 

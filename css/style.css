@@ -241,7 +241,7 @@
 }  */
 /* third section end */
 
-/* .count {
+.count {
 	height: 230px;
 	text-align: center;
 	padding-top: 60px;
@@ -320,8 +320,8 @@
 .Strategies-text-btn a:hover{
     background: #FF6019;
     color: #fff;
-} */
-/* @media screen and (max-width:320px) {
+} 
+ @media screen and (min-width:300px) {
     .container{
         overflow: hidden;
         margin: 0 auto;
@@ -337,16 +337,17 @@
         margin: 0 10px auto !important;
     }
     .expart img {
-        width: 300px !important;
+        width: 280px !important;
         margin: 0 0px auto !important;
     }
     .tem-enxpart {
-        width: 320px !important;
+        width: 280px !important;
+        margin: 0 0 auto;
     }
     .tem-enxpart p {
         text-align: center !important;
         padding: 30px !important;
-        width: 279px !important;
+        width: 290px !important;
     }
     .tem-enxpart a {
         padding: 12px 23px !important;
@@ -366,10 +367,10 @@
         margin-top: 710px !important;
         height: 780px;
     }
-    .Strategies-text p{
-        width: 300px !important;
+    .Strategies-text p {
+        width: 290px !important;
     }
-} */
+} 
 /* four section end */
 .freepic-contant{
     width: 100%;
@@ -567,7 +568,7 @@ hr {
         width: 265px !important;
     }
     .freepic-text-lorem {
-        width: 300px !important;
+        width: 295px !important;
     }
     .freepic-text-lorem p{
         margin-top: 140px !important;
@@ -575,7 +576,7 @@ hr {
     }
     .freepic-top-text {
         margin-top: -447px !important;
-        margin-left: 0px !important;
+        margin-left: 3px !important;
         width: 241px !important;
         height: 170px !important;
     }
@@ -591,17 +592,17 @@ hr {
 
     }
     .view-more p {
-        margin: 1686px 81px !important;
+        margin: 1686px 84px !important;
         color: #fff !important;
     }
     .view-more {
         height: 1850px !important;
     }
     .view-more a{
-        margin: 1750px 81px !important;
+        margin: 1750px 84px !important;
     }
     .border{
-        margin: 1713px 165px !important;
+        margin: 1713px 169px !important;
     }
     .Design-Build {
         width: 266px !important;

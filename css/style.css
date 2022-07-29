@@ -27,7 +27,7 @@
     font-family: Montserrat,sans-serif;
 } */
 
- /* @media screen and (max-width:320px) {
+  @media screen and (max-width:320px) {
     .container{
         
         overflow: hidden;
@@ -54,7 +54,7 @@
 
 
 /* first section end */
-/* .title{
+.title{
     text-align: center;
     padding-top:80px;
     background: #fff;
@@ -99,37 +99,37 @@
     font-size: 15px;
     font-style: italic;
 }
-@media screen and (max-width:320px) {
+@media screen and (min-width:300px) {
     .container{
         overflow: hidden;
         margin: 0 auto;
     }
     .title h1 {
-        font-size: 16px !important;
+        font-size: 22px !important;
     }
     .title p{
         font-size: 11px !important;
     }
-    /* .title-box{
+     .title-box{
         flex-wrap: wrap;
         margin-top: 170px;
-    } */
-    /* .title-box {
+    } 
+     .title-box {
         height: 620px !important;
     }
     .Architecture img{
         margin-top: 0px;
     }
     .Architecture {
-        width: 313px !important;
+        width: 283px !important;
         height: 140px !important;
         text-align: start;
         display: block;
     }
-}  */
+}  
 /* second section end */
 
-/* #Feature{
+ #Feature{
     display: flex;
     justify-content: center;
     background: #F2F2F2;
@@ -182,27 +182,27 @@
 	width: 160px;
 	height: 160px;
 	border-radius: 50%;
-	padding: 0 125px; */
-	/* margin-left: 140px;
-} */
-/* .goals-text{
+	padding: 0 125px; 
+	 margin-left: 140px;
+} 
+.goals-text{
     margin-left: 30px;
     text-align: justify;
     line-height: 25px;
     color: black;
     margin-right: 89px;
     margin-top: 34px;
-} */
+}
 
-/* @media screen and (max-width:320px) {
+@media screen and (min-width:300px) {
     .container{
         overflow: hidden;
         margin: 0 auto !important;
     }
-    .mission{
-        width: 300px !important;
+    .mission {
+        width: 290px !important;
         height: 100% !important;
-        margin-top: 10px;
+        margin-top: 60px;
     }
 
     .missino-text{
@@ -212,17 +212,17 @@
         width: 240px !important;
         height: 240px !important;
     }
-    .goals img{
+    .goals img {
         width: 240px !important;
         height: 240px !important;
-        margin-left: 0;
+        margin-left: -100px;
     }
     .values img {
         width: 240px !important;
         height: 240px !important;
     }
     .goals {
-        width: 300px !important;
+        width: 290px !important;
         height: 100% !important;
         margin-top: 10px;
     }
@@ -231,17 +231,17 @@
         margin-right: 32px;
     }
     .values{
-        width: 300px !important;
+        width: 290px !important;
         height: 100% !important;
         margin-top: 10px;
     }
     .values-text{
         margin-left: 40px !important;
     }
-}  */
+} 
 /* third section end */
 
-.count {
+/* .count {
 	height: 230px;
 	text-align: center;
 	padding-top: 60px;
@@ -320,8 +320,8 @@
 .Strategies-text-btn a:hover{
     background: #FF6019;
     color: #fff;
-} 
- @media screen and (min-width:300px) {
+}  */
+ /* @media screen and (min-width:300px) {
     .container{
         overflow: hidden;
         margin: 0 auto;
@@ -370,7 +370,7 @@
     .Strategies-text p {
         width: 290px !important;
     }
-} 
+}  */
 /* four section end */
 .freepic-contant{
     width: 100%;

@@ -27,14 +27,14 @@
     font-family: Montserrat,sans-serif;
 }
 
-  @media screen and (max-width:320px) {
+  @media screen and (min-width:300px) {
     .container{
         
         overflow: hidden;
         margin: 0 auto;
     }
     #hero{
-        height: 297px;
+        height: 250px;
     }
     
     .hero-text h1{
